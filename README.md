@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div align='center'>
+  
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Salah!&fontAlign=50&fontAlignY=40&color=timeGradient)
 
 
 [![](https://raw.githubusercontent.com/salahsaed5/github-profile-summary-card/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
